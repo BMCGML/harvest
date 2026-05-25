@@ -1,7 +1,9 @@
 # Make executable
+chmod +x install-packages.sh
 chmod +x harvest.sh
 
-# Run it — everything is automated
+# Run it - everything is automated
+sudo bash install-packages.sh
 sudo bash harvest.sh
 
 
