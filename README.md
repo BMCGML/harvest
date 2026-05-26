@@ -1,5 +1,5 @@
 # Download
-`git clone `
+`git clone https://github.com/BMCGML/harvest.git`
 ```cd harvest```
 
 # Make executable
