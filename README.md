@@ -1,5 +1,5 @@
 # Download
-``` git clone ```
+`git clone `
 ```cd harvest```
 
 # Make executable
